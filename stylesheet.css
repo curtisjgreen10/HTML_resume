@@ -1,0 +1,86 @@
+
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+
+a {
+	color:yellow;
+	text-decoration: none;
+}
+
+a:hover {
+	color:purple;
+	text-decoration: underline;
+}
+
+body {
+	background-color:#40E0D0;
+
+	
+
+}
+
+.photos {
+	text-align: center
+	
+	
+}
+
+.photo1 {
+	display: inline-block;
+	float:left;
+	
+	
+}
+
+.photo2 {
+	display: inline-block;
+	border:5px dashed yellow;
+	border-radius: 10px;
+	margin-right: 125px;
+	
+}
+
+.content {
+	position: relative;
+	top:100px;
+}
+
+.contact {
+	position:relative;
+	margin:auto;
+	border:5px solid white;
+	border-radius: 10px;
+	text-align: center;
+
+}
+
+.experience {
+	position:relative:;
+	border:5px solid red;
+	border-radius: 10px;
+	
+	float:right;
+	
+}
+.education {
+	position:relative:;
+	border:5px solid blue;
+	border-radius: 10px;
+	
+	float:left;	
+	height:600px;
+}
+
+ .interests {
+ 	position:relative:;
+	border:5px solid green;
+	border-radius: 10px;
+	
+	clear:both;
+	width:450px;
+}
